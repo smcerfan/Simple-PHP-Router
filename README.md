@@ -1,2 +1,1 @@
-# Simple-PHP-Router
-this repository represent an simple php router.
+<h1 align="center">Project title</h1>
